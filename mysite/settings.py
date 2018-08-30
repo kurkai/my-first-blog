@@ -25,7 +25,7 @@ SECRET_KEY = '3gthm4ig9oa6z_8qg_9g*szz6vqnwt+1-cv+zd-0^#w5@@^6+u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com', 'kurkai.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
